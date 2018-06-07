@@ -5,17 +5,19 @@ k-means and mean shift algorithm implementation (matlab version).
 
 - k-means  
 original data:  
-![original_data](https://github.com/gg-z/clustering_kmeans_mean_shift/blob/master/res_img/k-means_points_ori.jpg){:height="50%" width="50%"}
+ <img src="https://github.com/gg-z/clustering_kmeans_mean_shift/blob/master/res_img/k-means_points_ori.jpg" width = "300" height = "200" alt="original_data" align=center />
+
 
 clustered result:  
-![result](https://github.com/gg-z/clustering_kmeans_mean_shift/blob/master/res_img/k-means_partitioned.jpg){:height="50%" width="50%"}   
+ <img src="https://github.com/gg-z/clustering_kmeans_mean_shift/blob/master/res_img/k-means_partitioned.jpg" width = "300" height = "200" alt="result" align=center />
 
 - mean-shift  
 original data:  
-![original_data](https://github.com/gg-z/clustering_kmeans_mean_shift/blob/master/res_img/mean-shift_orig.jpg){:height="50%" width="50%"}  
+ <img src="https://github.com/gg-z/clustering_kmeans_mean_shift/blob/master/res_img/mean-shift_orig.jpg" width = "300" height = "200" alt="original_data" align=center />
+
 
 clustered result:  
-![result](https://github.com/gg-z/clustering_kmeans_mean_shift/blob/master/res_img/mean-shift_final_results.jpg){:height="50%" width="50%"}   
+ <img src="https://github.com/gg-z/clustering_kmeans_mean_shift/blob/master/res_img/mean-shift_final_results.jpg" width = "300" height = "200" alt="result" align=center />
 
 ### author
 If the code presented helps u, it literally is a delight to me.
