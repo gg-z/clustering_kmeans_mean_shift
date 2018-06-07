@@ -4,11 +4,16 @@ k-means and mean shift algorithm implementation (matlab version).
 ### results
 
 - k-means  
-| <img src="https://github.com/gg-z/clustering_kmeans_mean_shift/blob/master/res_img/k-means_points_ori.jpg" width = "300" height = "200" alt="original_data" align=center /> | <img src="https://github.com/gg-z/clustering_kmeans_mean_shift/blob/master/res_img/k-means_partitioned.jpg" width = "300" height = "200" alt="result" align=center /> |
-|:---:|:---:|
-| original data | result | 
-
-
+<div align="center">
+<p>
+  <img src="https://github.com/gg-z/clustering_kmeans_mean_shift/blob/master/res_img/k-means_points_ori.jpg" width = "300" height = "200" alt="original_data" align=center />
+ <em>original data</em>
+</p>
+<p>
+<img src="https://github.com/gg-z/clustering_kmeans_mean_shift/blob/master/res_img/k-means_partitioned.jpg" width = "300" height = "200" alt="result" align=center /> 
+<em>result</em>
+</p>
+</div>
 
 - mean-shift  
 original data:  
